@@ -1,0 +1,42 @@
+# Godot specific
+/.import/
+.export/
+*.godot
+*.gd
+*.cs
+*.sln
+*.suo
+*.user
+*.pidb
+*.userprefs
+*.csproj
+
+# Mono specific
+*.mdb
+*.pdb
+*.exe
+*.dll
+*.so
+*.app
+
+# Build directories
+bin/
+obj/
+out/
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# Other
+*.tmp
+*.userprefs
+*.tmp
+*.cache
